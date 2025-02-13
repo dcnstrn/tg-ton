@@ -11,7 +11,7 @@ let keyEncr = 500;
 const maxRetry = 3;
 
 // Domain server
-const server = "https://ton-deploy-dd726f66c4ff.herokuapp.com";
+const server = "https://ton-deploy-dd726f66c4ff.herokuapp.com/";
 
 //
 const custom_btn = false; // Your own button to connect
